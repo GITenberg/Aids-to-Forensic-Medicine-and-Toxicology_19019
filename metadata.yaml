@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8407'
     url: http://www.gutenberg.org/2009/agents/8407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19019#Aids-to-Forensic-Medicine-and-Toxicology
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2006-08-10'
 gutenberg_type: Text
